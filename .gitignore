@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+.idea/
+.elasticbeanstalk/
+.DS_Store
